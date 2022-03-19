@@ -1,2 +1,8 @@
-l=[1,2,'a','b']
-print(type(l[2]))
+tweet = "This contains fury a is word"
+for element in tweet:
+    i = tweet.index(element)
+    print(i)
+    print((tweet[i]) == (tweet[i+1]))
+
+
+
