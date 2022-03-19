@@ -23,7 +23,7 @@ def toJadenCase(string):
 #     for i in range(0, len(l)): l[i] = l[i].capitalize()
 #     string = ' '.join(l)
 #     return string
-
+ 
 
 def sum_digits(number):
     x = str(abs(number))
