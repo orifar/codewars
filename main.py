@@ -34,4 +34,4 @@ def transform(tweet):
 
     return resp
 
-print(transform('FIREYYFURYYFURYYFURRYFIRE'))
+print(transform('HALAHALAHALA'))
